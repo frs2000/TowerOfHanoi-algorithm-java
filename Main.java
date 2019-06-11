@@ -82,7 +82,6 @@ class Logic {
 }
 
 
-
 class Obj{
     private int name;
     private int[] pos = new int[3];
