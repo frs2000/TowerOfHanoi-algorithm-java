@@ -1,6 +1,6 @@
-package TestTask;
+package HanoiProblem;
 
-public class Task2 {
+public class Main {
     public static void main(String[] args) {
         Logic logic = new Logic(3);
         //Logic logic2 = new Logic(4);
